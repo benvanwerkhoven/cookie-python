@@ -9,6 +9,7 @@
   "apidoc": ["no", "yes"],
   "full_name": "John Smith",
   "email": "yourname@esciencecenter.nl",
+  "tweet_releases": ["no", "yes"],
   "copyright_holder": "Netherlands eScience Center",
   "code_of_conduct_email": "{{ cookiecutter.email }}"
 }
